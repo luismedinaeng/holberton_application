@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>&#10837; Viajes y Maravillas</title>
+    <meta charset="UTF-8">
+
+    <link href="https://www.holbertonschool.com/level2/holberton.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="behavior.js"></script>
+    <script src="responsive.js"></script>
+    
+  </head>
+  <body class="works_on_smartphone">
+    <!--Fb share button-->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v4.0"></script>
+   
+    <header>
+      
+	<!--Social buttons-->
+	<div class="right">
+	  <!--FBShare-->
+	  <div class="fb-share-button" data-href="https://52.23.197.63/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F52.23.197.63%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartir</a></div>
+	  <!--TwitterShare-->
+	  <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-url="http://52.23.197.63/" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	  <!--TumblrShare-->
+	  <a class="tumblr-share-button" data-color="blue" data-notes="none" href="https://embed.tumblr.com/share"></a>
+	  <script>!function(d,s,id){var js,ajs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://assets.tumblr.com/share-button.js";ajs.parentNode.insertBefore(js,ajs);}}(document, "script", "tumblr-js");</script>
+	  
+	</div>
+	<!--Navigation bar-->
+	<div>
+	  <ul class="navbar" id="navigation" >
+	    <li class="logo"><a href="index.html">&#10837;</a></li>
+	    <li class="dropmenu"><a href="javascript:void(0);" onclick="myFunction()">&#9776;</a></li>
+	    <li><a href="index.html">Inicio</a></li>
+	    <li class="drop">
+	      <a href="wonders.html" class="button">Maravillas</a>
+	      <ul class="content">
+		<li><a href="ancient.html">Antiguas</a></li>
+		<li><a href="modern.html">Modernas</a></li>
+		<li><a href="nature.html">Naturales</a></li>
+		<li><a href="others.html">Otras</a></li>
+	      </ul>
+	    </li>
+	    <li class="drop">
+	      <a href="trip.html" class="button">Viajes</a>
+	      <ul class="content">
+		<li><a href="guide.html">Guia viajera</a></li>
+	      </ul>
+	    </li>
+	    <li><a href="tweets.html">Tweets</a></li>
+	  </ul>
+	</div>
+    </header>
+
+    <main>
+      <article>
+	<h1>Viajes</h1>
+
+	<h2>Guías de viaje</h2>
+	
+	<p>Puedes revisar guías de bajo presupuesto a continuación:</p>
+
+	<div class="guides">
+	  <div>
+	    <a href="https://www.ef.com/cl/blog/language/9-consejos-para-viajar-con-poco-dinero/" target="guide-frame">EF blog</a>
+	  </div>
+	  <div>
+	    <a href="https://culturacolectiva.com/viajes/consejos-para-planear-un-viaje-de-bajo-presupuesto" target="guide-frame">Cultura colectiva</a>
+	  </div>
+
+	</div>
+	
+	<iframe id="iframe-guide" src="https://www.ef.com/cl/blog/language/9-consejos-para-viajar-con-poco-dinero/" name="guide-frame"></iframe>
+      </article>
+
+      <aside>
+	<div id="disqus_thread"></div>
+	<script>
+
+	  /**
+	  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+	  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+	  /*
+	  var disqus_config = function () {
+	  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+	  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	  };
+	  */
+	  (function() { // DON'T EDIT BELOW THIS LINE
+	  var d = document, s = d.createElement('script');
+	  s.src = 'https://trips-wonders.disqus.com/embed.js';
+	  s.setAttribute('data-timestamp', +new Date());
+	  (d.head || d.body).appendChild(s);
+	  })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </aside>
+
+    </main>
+
+    <footer>
+      Made by <a href="https://twitter.com/@joldan_95" target="_blank">Luis Medina Alfonso</a> for <a href="https://holbertonschool.com" target="_blank">Holberton School</a>
+    </footer>
+    <script id="dsq-count-scr" src="//trips-wonders.disqus.com/count.js" async></script>
+  </body>
+</html>

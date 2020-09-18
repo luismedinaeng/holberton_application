@@ -1,0 +1,9 @@
+terracota:		Photo by alvizlo from flickr		https://shorturl.at/zCMOR
+greatcanyon:		Photo by Trace Hudson from Pexels	https://www.pexels.com/photo/unknown-person-standing-on-brown-rock-formation-2379864/
+babilonia:		From vero4travel			https://www.vero4travel.com/2018/04/puerta-de-ishtar-babilonia-berlin.html#prettyPhoto/0/
+angkorwat:		Photo by Tiago Cardoso from Pexels	https://www.pexels.com/photo/man-looking-at-an-ancient-temple-2495575/
+reef:			Photo by Kyle Taylor from flickr	https://shorturl.at/enOP4
+reef2:			Photo by Kyle Taylor from flickr	https://shorturl.at/rtXZ4
+stonhenge:		Photo by Pixabay from Pexels		https://www.pexels.com/photo/stonehenge-under-nimbostratus-clouds-161798/
+
+

@@ -1,0 +1,12 @@
+machupicchu:		Photo by Errin Casano from Pexels		https://www.pexels.com/photo/mountain-2356045/
+chichen:		Photo by Viviana Camacho from Pexels		https://www.pexels.com/photo/green-leafed-trees-with-view-of-pyramid-2432191/
+colosseum:		Photo by Samson Bush from Pexels		https://www.pexels.com/photo/photo-of-coliseum-under-blue-sky-2678456/
+christ:			Photo by Rodrigo Soldon Souza from flickr	https://shorturl.at/EMTW4
+greatwall:		Photo by Paulo Marcelo Martins from Pexels	https://www.pexels.com/photo/great-wall-of-china-2412603/
+petra:			Photo by Abdullah Ghatasheh from Pexels		https://www.pexels.com/photo/horse-with-trailer-in-front-of-petra-1631665/
+tajmahal:		Photo by Sam Kolder from Pexels			https://www.pexels.com/photo/person-sitting-in-front-of-the-taj-mahal-2387871/
+
+
+
+
+	
